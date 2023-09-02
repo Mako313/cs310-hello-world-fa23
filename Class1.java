@@ -15,5 +15,8 @@ public class Class1 {
         // v3.0
         // hotfix
     }
+    private void f4(){
+
+    }
 
 }
